@@ -26,6 +26,7 @@ hiveserver2
 ## 3) ใช้ dbeaver เชื่อมต่อมายัง Hive Server
 
 เปิด Dbeaver เลือก Apache Hive และระบุการเชื่อมต่อดังนี้
+(โหลด Dbeaver ใน VM หรือใช้ Dbeaver บนเครื่อง Host ก็ได้ครับ)
 
 ```
 Host : <ip ของ vm>
