@@ -32,6 +32,10 @@ hiveserver2
 Host : <ip ของ vm>
 Username : student
 ```
+หรือใช้โปรแกรมในรูปแบบ CLI 
+```
+beeline -u jdbc:hive2://localhost:10000 -n student
+```
 
 ## 4) สร้าง Table 
 
