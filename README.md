@@ -39,7 +39,7 @@ beeline -u jdbc:hive2://localhost:10000 -n student
 
 ## 4) สร้าง Table 
 
-```
+```sql
 CREATE EXTERNAL TABLE IF NOT EXISTS hospital_info (
   hospcode INT,
   name STRING,
