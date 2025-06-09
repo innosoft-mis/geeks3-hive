@@ -1,4 +1,4 @@
-# geeks2-hive
+# geeks3-hive
 GEEKS 2 : HIVE
 
 ## 0) Start HDFS & Yarn
